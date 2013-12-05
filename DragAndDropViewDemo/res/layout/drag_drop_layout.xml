@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ddllTop"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <AbsoluteLayout
+        android:id="@+id/ddalTop"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:layout_weight=".70"
+        android:background="@drawable/commonroundedcornerlayout" >
+
+        <ImageView
+            android:id="@+id/ddivImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_menu_share"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/ddivImage1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_x="193dp"
+            android:layout_y="29dp"
+            android:src="@drawable/ic_launcher" />
+    </AbsoluteLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight=".30" >
+
+        <Button
+            android:id="@+id/ddbtnAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/addview" />
+
+        <Button
+            android:id="@+id/ddbtnRemove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/removeview"
+            android:visibility="visible" />
+    </LinearLayout>
+
+</LinearLayout>
