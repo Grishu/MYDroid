@@ -3,7 +3,7 @@ Move the Image or Text onTouch event in the screen.
 
 Download the demo and in the manifest file of the project change the launcher Activity name with the `DragAndDrop` instead of `MotionViewsActivity`. And you will get the simple Motion functionality.
 
-![Screenshot1](http://2.bp.blogspot.com/-JPHDqQpxpAc/UoHAmULdGfI/AAAAAAAAAJk/xvhMfzYTiuY/s1600/2.png)
+![Screenshot1](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F1.bp.blogspot.com%2F-7MFZkXrqkbk%2FUvhw1SNrPXI%2FAAAAAAAAA1U%2FTgK7HrdQ2WQ%2Fs1600%2F22.PNG&container=blogger&gadget=a&rewriteMime=image%2F*)
 
 
 ----------------------------------------------------------------------------------------------------------
@@ -12,9 +12,9 @@ Drag & Drop View onTouch with Delete & strech functioanlity.
 
 To get the Multiple functioanlity like delete and strech the image functionality you just need to change the activity name in the manifest file to `MotionViewsActivity` instead of `DragAndDrop`. And you will get one more functionality.
 
-![Screenshot2](http://4.bp.blogspot.com/-JcwApz6hFM0/UmTK4sxGfDI/AAAAAAAAAHY/fNBf-FXRby8/s1600/5.png)
+![Screenshot2](http://1.bp.blogspot.com/-TaZ9xMiojSU/U0JqeSlC-cI/AAAAAAAAA5U/eej09ALuwbw/s1600/4.png)
 
-![Screen3](http://4.bp.blogspot.com/-Vm56Wyn4UnA/UmTK3jzqcdI/AAAAAAAAAHQ/KWf0HUzGElk/s1600/4.png)
+![Screen3](http://2.bp.blogspot.com/-HOh0puB2vzU/U0JqXp1bAgI/AAAAAAAAA5E/1zKIpbAMlZA/s1600/2.png)
 
 
 License
